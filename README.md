@@ -1,6 +1,6 @@
 ## BASIC FASTAPI MODEL
 
-This is basic setting up a basic FastAPI API project in Python
+This is basic setting up a basic FastAPI API project in Python with ORACLE database
 
 ### Installation
 
