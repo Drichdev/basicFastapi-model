@@ -10,7 +10,7 @@ This is basic setting up a basic FastAPI API project in Python
 
    ```bash
    git clone <repository-link>
-   cd link-search-ai
+   cd basicFastapi-model
    pip install -r requirements.txt
    ```
 
